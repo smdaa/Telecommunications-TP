@@ -25,4 +25,4 @@ Le but de ce TP est de faire une étude sur les chaı̂nes de transmission en fr
 
 ## License
 
-Ce projet est sous licence ``Anyone But INP-ENSEEIHT License`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``Anyone But INP-ENSEEIHT License`` - voir le fichier [LICENSE.md](LICENCE.md) pour plus d'informations
